@@ -1,9 +1,9 @@
 {
   "datetime": "20241116",
-  "filename": "lineage-22.0-20241116-UNOFFICIAL-zircon.zip",
-  "id": "6fc0d4ee9fd2f4bcb6fd21edc3733ee45aa0ae0dfab6a1b428c2a787b1770807",
+  "filename": "lineage-22.0-20241116-UNOFFICIAL-gms-zircon.zip",
+  "id": "bb5ceecca8feed49804deb4481ac40579d646de6b34ca45f295927904b0571ce",
   "romtype": "UNOFFICIAL",
-  "size": 2549425860,
+  "size": 2549426204,
   "version": "22.0",
-  "url": "https://sourceforge.net/projects/zirconrandom/files/los/20241116/lineage-22.0-20241116-UNOFFICIAL-zircon.zip.sha256sum/download"
+  "url": "https://sourceforge.net/projects/zirconrandom/files/los/20241116/lineage-22.0-20241116-UNOFFICIAL-gms-zircon.zip/download"
 }
