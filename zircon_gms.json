@@ -4,5 +4,6 @@
   "id": "6fc0d4ee9fd2f4bcb6fd21edc3733ee45aa0ae0dfab6a1b428c2a787b1770807",
   "romtype": "UNOFFICIAL",
   "size": 2549425860,
-  "version": "22.0"
+  "version": "22.0",
+  "url": "https://github.com/zircon-development/releases/releases/download/22.0/lineage-22.0-20241116-UNOFFICIAL-zircon.zip.sha256sum"
 }
