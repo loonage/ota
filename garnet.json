@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1755094205",
-      "filename": "lineage-22.2-20250813-UNOFFICIAL-garnet.zip",
-      "id": "d765f8fac55af3c137c7b1dec4fb694d69e1b47f4955c5071923c0b0255be497",
+      "datetime": "1759401365",
+      "filename": "lineage-23.0-20251002-UNOFFICIAL-garnet.zip",
+      "id": "47b9ace85f21f7b3dc9387c2fe5654a4783b1b8ac74d02566249d6bebd7e01d0",
       "romtype": "UNOFFICIAL",
-      "size": 1610123335,
-      "url": "https://sourceforge.net/projects/garnetrandom/files/los/20250813/lineage-22.2-20250813-UNOFFICIAL-garnet.zip/download",
-      "version": "22.2"
+      "size": 1654736966,
+      "url": "https://sourceforge.net/projects/garnetrandom/files/los/20251002/lineage-23.0-20251002-UNOFFICIAL-garnet.zip/download",
+      "version": "23.0"
     }
   ]
 }
