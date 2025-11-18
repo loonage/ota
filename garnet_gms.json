@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1761468873",
-      "filename": "lineage-23.0-20251026-UNOFFICIAL-gms-garnet.zip",
-      "id": "332ca58c536465c93cdfce274b8872f3de55bcbaa6aa8719d06d82ee8ee6f4e9",
+      "datetime": "1763467004",
+      "filename": "lineage-23.0-20251118-UNOFFICIAL-gms-garnet.zip",
+      "id": "d586bc5a7a0d4f4b71226afbc6df75a13cdbe00af5d51cdde4d578ebd674c3e9",
       "romtype": "UNOFFICIAL",
-      "size": 2497263052,
-      "url": "https://sourceforge.net/projects/garnetrandom/files/los/20251026/lineage-23.0-20251026-UNOFFICIAL-gms-garnet.zip/download",
+      "size": 2575180199,
+      "url": "https://sourceforge.net/projects/garnetrandom/files/los/20251118/lineage-23.0-20251118-UNOFFICIAL-gms-garnet.zip/download",
       "version": "23.0"
     }
   ]
