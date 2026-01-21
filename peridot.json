@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1761559655",
-      "filename": "lineage-23.0-20251027-UNOFFICIAL-peridot.zip",
-      "id": "0bc46835a0ff730100a9cce04bbb1eab5cb55bc8db966ef78a2820d6c742ab23",
+      "datetime": "1768929920",
+      "filename": "lineage-23.2-20260120-UNOFFICIAL-peridot.zip",
+      "id": "f96489980ca15a9f6ef49d6cb12f377690d0e4d96cd430bc7de244db42a22024",
       "romtype": "UNOFFICIAL",
-      "size": 2354261289,
-      "url": "https://sourceforge.net/projects/peridotrandom/files/los/20251027/lineage-23.0-20251027-UNOFFICIAL-peridot.zip/download",
-      "version": "23.0"
+      "size": 2522609195,
+      "url": "https://sourceforge.net/projects/peridotrandom/files/los/20260120/lineage-23.2-20260120-UNOFFICIAL-peridot.zip/download",
+      "version": "23.2"
     }
   ]
 }
