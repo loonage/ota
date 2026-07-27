@@ -1,13 +1,17 @@
-{
-  "response": [
-    {
-      "datetime": "1761467400",
-      "filename": "lineage-23.0-20251026-UNOFFICIAL-garnet.zip",
-      "id": "e52ce87c0949da3a100ccc1a0261fe985ecd10f5e62db585fbeafca1c09e35a7",
-      "romtype": "UNOFFICIAL",
-      "size": 1656672954,
-      "url": "https://sourceforge.net/projects/garnetrandom/files/los/20251026/lineage-23.0-20251026-UNOFFICIAL-garnet.zip/download",
-      "version": "23.0"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1785158226,
+    "files": [
+      {
+        "filename": "lineage-23.0-20251026-UNOFFICIAL-garnet.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "sha256": "e52ce87c0949da3a100ccc1a0261fe985ecd10f5e62db585fbeafca1c09e35a7",
+        "size": 1656672954,
+        "url": "https://sourceforge.net/projects/garnetrandom/files/los/20251026/lineage-23.0-20251026-UNOFFICIAL-garnet.zip/download"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "23.2"
+  }
+]
