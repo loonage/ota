@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1785909110,
+    "datetime": 1786900768,
     "files": [
       {
-        "filename": "lineage-23.2-20260805-UNOFFICIAL-onyx.zip",
+        "filename": "lineage-23.2-20260816-UNOFFICIAL-onyx.zip",
         "os_patch_level": "2026-07-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4868:202123,payload.bin:4868:3341120111,payload_properties.txt:3341125037:156,apex_info.pb:2188:1369,care_map.pb:3604:1217,metadata:69:679,metadata.pb:816:1324",
-        "sha256": "80c60aebf9ec9991820ff72c232ed9dc89c4573b1f1bce1d34915746b7a4010a",
-        "size": 3341129720,
-        "url": "https://sourceforge.net/projects/onyxrandom/files/los/20260805/lineage-23.2-20260805-UNOFFICIAL-onyx.zip/download"
+        "ota_property_files": "payload_metadata.bin:4868:202123,payload.bin:4868:3341362377,payload_properties.txt:3341367303:156,apex_info.pb:2188:1369,care_map.pb:3604:1217,metadata:69:679,metadata.pb:816:1324",
+        "sha256": "66e3b1d0d49c6b6290205f6ff5b2c6865f7dcf4843f8c910e011a9ae0c63f849",
+        "size": 3341371986,
+        "url": "https://sourceforge.net/projects/onyxrandom/files/los/20260816/lineage-23.2-20260816-UNOFFICIAL-onyx.zip/download"
       }
     ],
     "type": "UNOFFICIAL",
